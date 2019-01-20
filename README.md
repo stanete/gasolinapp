@@ -2,7 +2,7 @@
 
 ## Description
 
-An app that shows gas and electric stations prices in Spain
+An app that shows gas stations prices in Spain.
 
 ## Installation
 
